@@ -1,5 +1,5 @@
 # RSA_Algorithm
-##RSA implementation with a demo driver for proof of concept
+## RSA implementation with a demo driver for proof of concept
 
 Current settings (these can be modified in the code as needed)
  * p and q are atleast 1536 bits
