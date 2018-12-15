@@ -6,4 +6,4 @@ Current settings (these can be modified in the code as needed)
  * difference of p and q is larger than 2^1000
  * public key (e) = 65537
  
-Note: this is not a secure implementation. I wrote this code created for educational purposes.
+Note: this is not a secure implementation. I wrote this code for educational purposes.
